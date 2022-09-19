@@ -7,9 +7,11 @@
         "id": "7941ca686f48d8f1",
         "type": "leaf",
         "state": {
-          "type": "pdf",
+          "type": "markdown",
           "state": {
-            "file": "Playbooks/Offense/1966-Green-Bay-Packers-Offense-Vince-Lombardi.pdf"
+            "file": "Offense/Run/Gap/Gap Run.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -75,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playbooks/Offense/1966-Green-Bay-Packers-Offense-Vince-Lombardi.pdf",
+                "file": "Offense/Run/Gap/Gap Run.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Playbooks/Offense/1966-Green-Bay-Packers-Offense-Vince-Lombardi.pdf",
+                "file": "Offense/Run/Gap/Gap Run.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Playbooks/Offense/1966-Green-Bay-Packers-Offense-Vince-Lombardi.pdf"
+                "file": "Offense/Run/Gap/Gap Run.md"
               }
             }
           }
@@ -126,14 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "7941ca686f48d8f1",
+  "active": "1957f3ad044a8475",
   "lastOpenFiles": [
-    "Playbooks/Offense/1992-NYNJ-Knights-Run-N-Shoot-Offense.pdf",
-    "Playbooks/Defense/2017-Clemson-Defensive-Venables.pdf",
-    "Playbooks/Defense/02040201-Michigan.pdf",
-    "Playbooks/Defense/SalariesOver50K_18-19.pdf",
-    "Playbooks/Defense/1991-Florida-Gators-44-Defense-Bob-Stoops.pdf",
-    "Defense/Base 3-4/Untitled.md",
-    "Defense/Base 3-3-5 Dime/Untitled.md"
+    "Offense/Run/Zone/Zone Run.md",
+    "Offense/Run/Run Keys.md",
+    "Offense/Pass/Passing Keys.md",
+    "Offense/Spread/Spread.md",
+    "Offense/West Coast/West Coast.md",
+    "Offense/Shanahan/Shanahan.md",
+    "Offense/Run & Shoot/Run & Shoot.md",
+    "Offense/Gulf Coast/Gulf Coast.md",
+    "Defense/Base 4-2-5 Nickle/4-2-5 Nickle.md",
+    "Defense/Base 4-3/4-3 Base.md"
   ]
 }
