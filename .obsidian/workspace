@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "44617357714e5d99",
+    "type": "split",
+    "children": [
+      {
+        "id": "7941ca686f48d8f1",
+        "type": "leaf",
+        "state": {
+          "type": "pdf",
+          "state": {
+            "file": "Playbooks/Offense/1966-Green-Bay-Packers-Offense-Vince-Lombardi.pdf"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64d6e0db7ff51596",
+    "type": "split",
+    "children": [
+      {
+        "id": "613f41a09140af84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1957f3ad044a8475",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "612f8170bac79f59",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9bd8781caff9f5f8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 544.5
+  },
+  "right": {
+    "id": "1a0c954553791969",
+    "type": "split",
+    "children": [
+      {
+        "id": "26477dba2a0841b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec904eafd2a55cb4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Playbooks/Offense/1966-Green-Bay-Packers-Offense-Vince-Lombardi.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "57a1463dea1db178",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Playbooks/Offense/1966-Green-Bay-Packers-Offense-Vince-Lombardi.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b396f07c630ee1d1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bf82215e603a2109",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Playbooks/Offense/1966-Green-Bay-Packers-Offense-Vince-Lombardi.pdf"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "7941ca686f48d8f1",
+  "lastOpenFiles": [
+    "Playbooks/Offense/1992-NYNJ-Knights-Run-N-Shoot-Offense.pdf",
+    "Playbooks/Defense/2017-Clemson-Defensive-Venables.pdf",
+    "Playbooks/Defense/02040201-Michigan.pdf",
+    "Playbooks/Defense/SalariesOver50K_18-19.pdf",
+    "Playbooks/Defense/1991-Florida-Gators-44-Defense-Bob-Stoops.pdf",
+    "Defense/Base 3-4/Untitled.md",
+    "Defense/Base 3-3-5 Dime/Untitled.md"
+  ]
+}
