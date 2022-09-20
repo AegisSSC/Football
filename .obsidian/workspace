@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Offense/Run/Gap/Gap Run.md",
+            "file": "Defense/Pass Rush Lane.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Offense/Run/Gap/Gap Run.md",
+                "file": "Defense/Pass Rush Lane.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Offense/Run/Gap/Gap Run.md",
+                "file": "Defense/Pass Rush Lane.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Offense/Run/Gap/Gap Run.md"
+                "file": "Defense/Pass Rush Lane.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "1957f3ad044a8475",
   "lastOpenFiles": [
-    "Offense/Run/Zone/Zone Run.md",
-    "Offense/Run/Run Keys.md",
-    "Offense/Pass/Passing Keys.md",
-    "Offense/Spread/Spread.md",
-    "Offense/West Coast/West Coast.md",
-    "Offense/Shanahan/Shanahan.md",
-    "Offense/Run & Shoot/Run & Shoot.md",
-    "Offense/Gulf Coast/Gulf Coast.md",
-    "Defense/Base 4-2-5 Nickle/4-2-5 Nickle.md",
+    "Defense/Gap.md",
+    "Defense/Two Gap Technique.md",
+    "2 Gap Technique.md",
+    "2 [[Gap.md",
+    "Defense/Pass Rush Lane.md",
+    "Defense/Defensive Line.md",
+    "Philosophies/Michigan State's Defensive Philosophy.md",
+    "My Offensive Philosophy.md",
+    "My Defensive Philosophy.md",
     "Defense/Base 4-3/4-3 Base.md"
   ]
 }

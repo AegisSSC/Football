@@ -1,0 +1,2 @@
+To play Two Gaps, you will need to:
+Move on the Ball leading with your hands. Knock the Blocker back and work for full extension of arms. Once you've gained control, you will be able to break away to both sides as needed. 
