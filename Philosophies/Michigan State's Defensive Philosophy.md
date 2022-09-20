@@ -9,24 +9,14 @@ Michigan State's [Defensive Philosophy] was as follows:
 
 The Trademark of Michigan State's Defense is Agressiveness and Physicality. 
 
-Inside the [[Red Zone]] we will focus on eliminating the run while playing tight pass coverage Limiting teams to [[Field Goals]] and prevent [[Touchdowns]]
+Inside the [[Red Zone]] we will focus on eliminating the run while playing tight pass coverage limiting scoring opportunities. teams to
 
-Defensively, will must adapt to Every Situation that presents itself and execute successsfully. This requires good communication, teamwork, and Personnel Substitutions.
-
-Possible Situations that we will account for will be:
-- [[Third Down]]
-- [[Fourth Down]]
-- [[Two-Minute]]
-- [[Short Yardage]]
-- [[Conserving Time]]
-- [[Protecting a Lead]]
-- [[Opponent Backed Up]]
-- [[No Huddle]]
+Defensively, will must adapt to Every Situation that presents itself and execute successsfully. This requires good communication, teamwork, and Personnel Substitutions. [[Situational Defense]] is something that we must always account for. 
 
 We must "Put the Fire out" and control the Momentum of the game through [[Takeaways]] and create short yardage situations for our offense. 
 
 1. A Defense Must be a Team Effort:
-	1. Prevent [[Touchdowns]] and [[Scoring]]. The effectiveness of a defensive team is measured by the number of points scored against. 
+	1. Prevent [[Scoring]] opportunities. The effectiveness of a defensive team is measured by the number of points scored against. 
 	2. Comprise of Men who knows their individual assignment and responibility on every defense and and play his own responsibility each and every play. 
 	3. Comprise of men who carry out his team assignment positively to allow the team to function collectively. [[Pursuit]] and [[Gang Tackling]] are vital parts of team effort. 
 	4. Not take gambles comprimising the integrity of the defense by playing individually. Every man carries out his assignment completely
@@ -37,7 +27,7 @@ We must "Put the Fire out" and control the Momentum of the game through [[Takeaw
 	We will create victories for our defensive by playing Great Defense versus the run. Each man must play his responsibility, pursue the ball with superhuman effort, be vicious tacklers, and keep proper leverage on the football at all times. [[Gang Tackling]] will discourage great backs and create [[Turnovers]]. 
 
 3. Pass Defense
-	1. The [[Defensive Line]] must continuously put [[Pressure]] on the passer by rushing in your own prescribed lane and by super human second effort. By staying in your proper rushing lane, you will contain the passer, thereby preventing him from [[Scrambling]] outside the [[Pocket]]. Rush is dictated by [[QB]] and [[Pass Protection]]. Stay on your feet and get hands in the QB's face
+	1. The [[Defensive Line]] must continuously put [[Pressure]] on the passer by rushing in your own prescribed lane and by super human second effort. By staying in your proper rushing lane, you will contain the passer, thereby preventing him from extending the play. Rush is dictated by [[Quarterback]] and [[Pass Protection]]. Stay on your feet and get hands in the QB's face
 	2. Our [[Linebackers]] must hold up and force the release of the [[Offensive Tackles]] based upon the defense call, formation set, situation, and field position. Dropping to their defensive positions for pass, reroute receivers based on coverage, match the pattern and break on the ball. Get good reaction to thrown ball, and be aggresive to get the ball out with a swat or collision. [[Linebackers]] must react to call by [[Backs]], [[Cross]], [[Smash]] and other calls
 	3. Our [[Defensive Backs]] must learn their responsibilites the techniques, and carry out their responsibilities. The secret of covering a receiver is good technique, vision, knowing where the reception area is, reaction to the ball, poise, and toughness
 4. Desire to do the Job -- Desire to Study the Game will Improve your Game
