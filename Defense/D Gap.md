@@ -1,0 +1,1 @@
+Defined as the space outside of the [[Tight End]]

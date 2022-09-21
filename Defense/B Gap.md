@@ -1,0 +1,1 @@
+Defined as the space between the [[Guard]] and the [[Offensive Tackle]]

@@ -1,0 +1,1 @@
+The Tight End is typically the player closest to  the [[Offensive Line]] without being a [[Offensive Tackle]]

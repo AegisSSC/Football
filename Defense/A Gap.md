@@ -1,0 +1,1 @@
+Defined as the space between either side of the [[Center]] and each [[Guard]]
