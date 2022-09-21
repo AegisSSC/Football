@@ -1,0 +1,1 @@
+Go Routes follow the same technique as [[Runback]] routes, however, the ball will be thrown 4 yards inside the boundary at 42-44 yards depth

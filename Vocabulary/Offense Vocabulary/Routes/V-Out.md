@@ -1,0 +1,1 @@
+A V-Out route is characterized by a stem to the inside edge of the numbers 10 yards deep, climb along the numbers to 15 yards depth, and then Flatten to 25 yards depth to pull a safety or corner with you. 

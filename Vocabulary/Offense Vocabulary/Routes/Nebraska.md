@@ -1,0 +1,1 @@
+Nebraska Routes are characterized by an [[Omaha]] Release, with a 3 step outside to sell the route before turning back up into a [[Go ]]

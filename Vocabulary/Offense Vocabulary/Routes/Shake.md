@@ -1,0 +1,1 @@
+Shake Routes have a Vertical Stem at 10-12 yards where the first move is to sell a [[Post]] Route, and break 5 steps off the defender to a [[Corner]] Route

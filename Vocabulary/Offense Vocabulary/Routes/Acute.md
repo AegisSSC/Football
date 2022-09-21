@@ -1,0 +1,1 @@
+Acute Routes start with a 12 yard stem and then cut back 10 yards

@@ -1,0 +1,1 @@
+Comeback routes use a vertical stem of 20 yards of depth and then cut at a 45 degree angle to face the Quarterback

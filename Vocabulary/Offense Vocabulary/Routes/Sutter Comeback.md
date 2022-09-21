@@ -1,0 +1,1 @@
+A Stutter Comeback Route is Characterized by a vertical stem to 15 yards before making a stutter move and then turning into a [[Comeback]] Route at 20 yards

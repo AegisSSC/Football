@@ -1,3 +1,6 @@
+!TODO CREATE DRAWINGS AND A SIMPLIFIED TEMPLATE FOR THE ROUTES
+
+
 [[Runback]]
 [[Go]]
 [[Comeback]]

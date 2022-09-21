@@ -1,0 +1,1 @@
+Colorado Routes begin with a 5 yard vertical stem, 3 step speed cut to post, and then flatten off on the corner

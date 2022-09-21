@@ -1,0 +1,1 @@
+A Sluggo Route is characterized by a [[Slant]] at 5 yards before releasing high and outside on a [[Go]] Route

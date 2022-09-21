@@ -1,0 +1,1 @@
+A Take Off Route is characterized by a 15 yard vertical stem before taking 2 steps to sell the [[Comeback]] Route, then stemming back to a [[Go]] Route

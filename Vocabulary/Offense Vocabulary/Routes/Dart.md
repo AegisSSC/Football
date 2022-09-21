@@ -1,0 +1,1 @@
+A Dart Route is characterized by using [[Outside Release]] into a [[Go]] Route vs. Bump and Run. The ball is thrown to a depth of 20 yards along the sideline

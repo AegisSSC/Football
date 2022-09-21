@@ -1,0 +1,1 @@
+Short Yardage is any situation that a team will see if the distance to the first down marker is less than 3 yards. Typically seen on 3rd and 4th down. 

@@ -1,0 +1,1 @@
+Two-Minute is referring to the remaining time in the half/game. In general, it is characterized by increased tempo in movement with an emphasis on moving the ball to the sidelines in order to preserve the remaining time on the clock. 

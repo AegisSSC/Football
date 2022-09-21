@@ -1,8 +1,7 @@
 There are a handfull of different Defensive Line Positions
 
 [[Defensive Tackle]]
-[[Defensive Left End]]
-[[Defensive Right End]]
+[[Defensive End]]
 [[Nose Tackle]]
 Defensive Line Responsibilities:
 
