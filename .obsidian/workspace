@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "574ee1a88bf61bc1",
+        "id": "4bd424797ad01277",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Vocabulary/Offense Vocabulary/Route Tree Inside.md",
+            "file": "Offense/Earnhart-Perkins/Earnhart Perkins.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Offense Vocabulary/Route Tree Inside.md",
+                "file": "Offense/Earnhart-Perkins/Earnhart Perkins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Offense Vocabulary/Route Tree Inside.md",
+                "file": "Offense/Earnhart-Perkins/Earnhart Perkins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Offense Vocabulary/Route Tree Inside.md"
+                "file": "Offense/Earnhart-Perkins/Earnhart Perkins.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "574ee1a88bf61bc1",
+  "active": "4bd424797ad01277",
   "lastOpenFiles": [
-    "Vocabulary/Offense Vocabulary/Route Tree Outside.md",
-    "Vocabulary/Offense Vocabulary/Routes/Wide Receiver Route Tree.md",
-    "Offense/Positions/Wide Receiver.md",
-    "Vocabulary/Offense Vocabulary/Routes/V-Out.md",
-    "Vocabulary/Offense Vocabulary/Routes/Under Sluggo.md",
-    "Vocabulary/Offense Vocabulary/Routes/Take Off.md",
-    "Vocabulary/Offense Vocabulary/Routes/Sutter Comeback.md",
-    "Vocabulary/Offense Vocabulary/Routes/Stick.md",
-    "Vocabulary/Offense Vocabulary/Routes/Square Out.md",
-    "Vocabulary/Offense Vocabulary/Routes/Sluggo.md"
+    "Coaching Information/Universities/Louisiana State University.md",
+    "Coaching Information/Universities/Michigan State University.md",
+    "Coaching Information/Universities/University of Florida.md",
+    "Coaching Information/Nick Saban.md",
+    "Coaching Information/Mike Shanahan.md",
+    "Offense/Earnhart-Perkins/Earnhart Perkins.md",
+    "My Defensive Philosophy.md",
+    "My Offensive Philosophy.md",
+    "Philosophies/Michigan State's Defensive Philosophy.md",
+    "README.md"
   ]
 }
