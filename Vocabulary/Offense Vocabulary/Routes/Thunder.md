@@ -1,0 +1,1 @@
+A Thunder Route is characterized by a a vertical stem of 5 yards before running a [[Flat Stop]] at 7 yards

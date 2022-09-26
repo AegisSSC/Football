@@ -1,0 +1,1 @@
+A Far Cross Route is characterized by a 10-12 yard vertical stem before climbing to 25 yards as you cross over the field

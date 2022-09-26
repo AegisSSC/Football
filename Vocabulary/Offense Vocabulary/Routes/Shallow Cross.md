@@ -1,0 +1,1 @@
+A Shallow Cross route is characterized as a route that works underneath under the depth of the linebackers working across the field parallel to the Line of Scrimmage. 

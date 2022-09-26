@@ -1,0 +1,1 @@
+A Post Route is characterized by a Vertical Stem of 18 yards before cutting back towards the post

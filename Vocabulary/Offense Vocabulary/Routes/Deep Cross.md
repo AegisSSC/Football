@@ -1,0 +1,1 @@
+A Deep Cross is characterized as an inside release at a slight angle to 8 yards before climbing to 10-12 yards on the other side of the field

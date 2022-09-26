@@ -1,0 +1,1 @@
+A Basic Cross Route is characterized by a 10-12 yard vertical stem before crossing inside and flattening out the route. 

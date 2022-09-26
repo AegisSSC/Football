@@ -1,0 +1,1 @@
+An In Route is characterized by a vertical stem of 12 yards before breaking inside and coming back towards the quarterback.

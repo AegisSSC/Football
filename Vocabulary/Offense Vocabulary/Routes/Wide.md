@@ -1,0 +1,1 @@
+A Wide Route is a [[Spot]] Route in which you give up 1 yard and check for the ball on the 5th step before turning upfield 2 steps past the outside of the numbers. 

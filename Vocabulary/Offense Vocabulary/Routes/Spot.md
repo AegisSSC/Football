@@ -1,0 +1,1 @@
+A Spot Route is characterized by a parallel run to the line of scrimmage where you begin looking for the ball on your 3rd step out of the backfield

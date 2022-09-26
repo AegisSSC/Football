@@ -1,0 +1,1 @@
+A Hook/Pivot Route is characterized by a 10 yard vertical stem and then cut inside to the quarterback and then towards the sideline

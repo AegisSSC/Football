@@ -1,0 +1,1 @@
+A skinny route is a [[Post]]  that is ran on 7 steps. 

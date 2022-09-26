@@ -1,0 +1,1 @@
+A Stutter Go Route is characterized with a Gather/Stutter Step at the line into a vertical stem of 8 yards before transitioning to a [[Go]] Route

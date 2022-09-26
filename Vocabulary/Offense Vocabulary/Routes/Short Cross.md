@@ -1,0 +1,1 @@
+A  Short Cross route is characterize as a crossing route that works just behind the depth of the linebackers at a depth of 6 yards while parallel to the Line of Scrimmage. 

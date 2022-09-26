@@ -1,0 +1,1 @@
+A Circle Post Route is Characterized by a an inside release to 12 yards before breaking outside to a [[Corner]] route before breaking back into a [[Post]]

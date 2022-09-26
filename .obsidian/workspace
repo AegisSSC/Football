@@ -7,12 +7,8 @@
         "id": "574ee1a88bf61bc1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Coaching Information/Nick Saban.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -61,7 +57,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 544.5
+    "width": 213.5
   },
   "right": {
     "id": "1a0c954553791969",
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coaching Information/Nick Saban.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coaching Information/Nick Saban.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Coaching Information/Nick Saban.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -130,15 +122,15 @@
   },
   "active": "574ee1a88bf61bc1",
   "lastOpenFiles": [
-    "Coaching Information/Mike Shanahan.md",
-    "Coaching Information/Kyle Shanahan.md",
-    "Coaching Information/Universities/Louisiana State University.md",
-    "Coaching Information/Universities/Michigan State University.md",
-    "Coaching Information/Universities/University of Alabama.md",
-    "Coaching Information/Universities/University of Florida.md",
-    "Coaching Information/Universities/University of Toledo.md",
-    "Vocabulary/Offense Vocabulary/Route Tree Inside.md",
-    "Vocabulary/Offense Vocabulary/Route Tree Outside.md",
-    "Vocabulary/Offense Vocabulary/Routes/Wide Receiver Route Tree.md"
+    "Vocabulary/Offense Vocabulary/Routes/M.md",
+    "Vocabulary/Offense Vocabulary/Routes/Bingo Cross.md",
+    "Vocabulary/Offense Vocabulary/Running Back Routes.md",
+    "Vocabulary/Offense Vocabulary/Routes/Wide.md",
+    "Vocabulary/Offense Vocabulary/Routes/Spot.md",
+    "Vocabulary/Offense Vocabulary/Tight End Route Tree.md",
+    "Vocabulary/Offense Vocabulary/Routes/Skinny.md",
+    "Post Route.md",
+    "Vocabulary/Offense Vocabulary/Routes/Short Cross.md",
+    "Vocabulary/Offense Vocabulary/Routes/Post.md"
   ]
 }

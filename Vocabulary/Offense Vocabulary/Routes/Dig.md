@@ -1,0 +1,1 @@
+A Dig Route is characterized by a vertical stem of 18 yards and then breaking inside to comeback towards the quarterback

@@ -1,0 +1,1 @@
+A Dino Route uses a [[Shake]] Stem before taking 3 steps towards the post, and then breaking out for a Corner, before breaking back to the Post

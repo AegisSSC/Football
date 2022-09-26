@@ -1,0 +1,1 @@
+A Smoke Route is characterized by driving upfield against coverage and then working back towards the Line of Scrimmage into a soft zone
