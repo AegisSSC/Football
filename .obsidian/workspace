@@ -122,6 +122,7 @@
   },
   "active": "4bd424797ad01277",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Coaching Information/Universities/University of Alabama.md",
     "Coaching Information/Universities/University of Toledo.md",
     "Coaching Information/Universities/University of Florida.md",
@@ -132,5 +133,17 @@
     "Coaching Information/Mike Shanahan.md",
     "My Defensive Philosophy.md",
     "My Offensive Philosophy.md"
+=======
+    "Vocabulary/Offense Vocabulary/Route Tree Inside.md",
+    "Vocabulary/Offense Vocabulary/Route Tree Outside.md",
+    "Vocabulary/Offense Vocabulary/Routes/Wide Receiver Route Tree.md",
+    "Offense/Positions/Wide Receiver.md",
+    "Vocabulary/Offense Vocabulary/Routes/V-Out.md",
+    "Vocabulary/Offense Vocabulary/Routes/Under Sluggo.md",
+    "Vocabulary/Offense Vocabulary/Routes/Take Off.md",
+    "Vocabulary/Offense Vocabulary/Routes/Sutter Comeback.md",
+    "Vocabulary/Offense Vocabulary/Routes/Stick.md",
+    "Vocabulary/Offense Vocabulary/Routes/Square Out.md"
+>>>>>>> Stashed changes
   ]
 }
