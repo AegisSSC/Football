@@ -12,16 +12,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.542735042735043,
+  "collapse-forces": true,
+  "centerStrength": 0.277777777777778,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-<<<<<<< Updated upstream
-  "scale": 0.08317427835928189,
-  "close": false
-=======
-  "scale": 0.0078125,
+  "scale": 0.22920131214925146,
   "close": true
->>>>>>> Stashed changes
 }
