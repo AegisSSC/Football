@@ -17,7 +17,7 @@ The Route Tree for [[Running Back]] is simplified
 [[Shallow Cross]]
 [[Option]]
 [[Short Cross]]
-[[Pivot]]
+[[Hook]]
 [[Under]]
 [[Smoke]]
 [[Texas]]

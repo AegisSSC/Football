@@ -7,12 +7,8 @@
         "id": "574ee1a88bf61bc1",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "RPO.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -77,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "RPO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +89,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "RPO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -116,9 +110,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "RPO.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -130,15 +122,15 @@
   },
   "active": "574ee1a88bf61bc1",
   "lastOpenFiles": [
-    "Vocabulary/Offense Vocabulary/Tight End Route Tree.md",
-    "Option.md",
-    "Vocabulary/Offense Vocabulary/Routes/Out.md",
-    "Drive.md",
-    "Vocabulary/Offense Vocabulary/Routes/Shallow Cross.md",
-    "Vocabulary/Offense Vocabulary/Routes/Basic Cross.md",
-    "Vocabulary/Offense Vocabulary/Routes/M.md",
-    "Vocabulary/Offense Vocabulary/Routes/Bingo Cross.md",
-    "Vocabulary/Offense Vocabulary/Running Back Routes.md",
-    "Vocabulary/Offense Vocabulary/Routes/Wide.md"
+    "Brent Venables.md",
+    "University of Oklahoma.md",
+    "Bob Stoops.md",
+    "Coaching Information/Universities/Clemson University.md",
+    "Coaching Information/Universities/University of Florida.md",
+    "Coaching Information/Universities/University of Alabama.md",
+    "Coaching Information/Universities/Michigan State University.md",
+    "Coaching Information/Universities/Louisiana State University.md",
+    "Vocabulary/Offense Vocabulary/Routes/Option.md",
+    "Vocabulary/Offense Vocabulary/Route Tree Inside.md"
   ]
 }
