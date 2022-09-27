@@ -1,0 +1,1 @@
+The Box Safety is an archetype of Strong Safety in which the safety comes down from a depth of 12 to 15 yards to a depth of 8 to 10 yards or as its colloquially known as "coming inside the Tackle-Box".  This allows defense the flexibility to bring another defender to stop the run without sacrificing integrity of the pass defense. 

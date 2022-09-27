@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "574ee1a88bf61bc1",
+        "id": "8d32c6db6b9c68d3",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Rip.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -73,6 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,6 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Rip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -110,7 +116,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Rip.md"
+              }
             }
           }
         ]
@@ -120,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "574ee1a88bf61bc1",
+  "active": "8d32c6db6b9c68d3",
   "lastOpenFiles": [
-    "Steve Spurrier.md",
-    "Miami Dolphins.md",
-    "Denver Broncos.md",
-    "Houston Texans.md",
-    "Atlanta Falcons.md",
-    "San Francisco 49ers.md",
-    "Washington Redskins.md",
-    "Los Angeles Raiders.md",
-    "Cleveland Browns.md",
-    "Brent Venables.md"
+    "Blood.md",
+    "Venables System.md",
+    "Tam.md",
+    "Switch.md",
+    "Rip.md",
+    "Pop.md",
+    "README.md",
+    "Opposite.md",
+    "Knifer.md",
+    "G Nose.md"
   ]
 }
