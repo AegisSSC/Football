@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Rip.md",
+            "file": "Cover 1 Robber.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rip.md",
+                "file": "Cover 1 Robber.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rip.md",
+                "file": "Cover 1 Robber.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rip.md"
+                "file": "Cover 1 Robber.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "8d32c6db6b9c68d3",
   "lastOpenFiles": [
-    "Blood.md",
-    "Venables System.md",
-    "Tam.md",
-    "Switch.md",
-    "Rip.md",
-    "Pop.md",
-    "README.md",
-    "Opposite.md",
-    "Knifer.md",
-    "G Nose.md"
+    "Cover 1.md",
+    "Cover 2.md",
+    "Cover 3.md",
+    "Cover 0.md",
+    "Cover 6.md",
+    "Coaching Information/Bob Stoops.md",
+    "Offense/Run/Gap/Gap Run.md",
+    "Cover 4.md",
+    "Cover 7.md",
+    "Cover 5.md"
   ]
 }

@@ -1,0 +1,1 @@
+Cover 7 is a Hybrid Coverage in which 
