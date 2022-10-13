@@ -69,3 +69,8 @@ We are not on our Heels. We are on our toes and we are Attacking!
 9. Academic Integrity, Athletic Integrity, and Character are the Key Ingredients of a Clemson Man. The best Ability is Dependability
 
 This forms the foundation of the [[Venables System]]
+
+
+
+
+A critical part of Clemson's Philosophy comes from how it handles [[Situational Defense]]

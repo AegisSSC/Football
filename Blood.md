@@ -1,1 +1,0 @@
-Blood is a [[Defensive Front Game]] in the [[Venables System]] where the Defensive Tackles slant one gap to the call. "G Nose + Tam". Typically called to penetrate into [[Zone Run]] or [[Gap Run]] Schemes. 

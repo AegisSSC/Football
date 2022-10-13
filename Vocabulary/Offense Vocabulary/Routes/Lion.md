@@ -1,1 +1,1 @@
-A Lion Route is a 3 yard [[Slant]]  from the [[Slot Route]], continue climbing at the angle if you do not get the ball and the [[Target Point]]
+A Lion Route is a 3 yard [[Slant]]  from the #Slot-Route, continue climbing at the angle if you do not get the ball

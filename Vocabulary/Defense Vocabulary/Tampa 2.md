@@ -1,0 +1,1 @@
+Tampa 2 is a defensive scheme developed by [[Tony Dungy]] based on the principles of having 5 defenders in the intermediate of the field while having 2 deep safeties. 

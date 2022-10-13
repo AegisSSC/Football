@@ -3,4 +3,5 @@ An All Go Route is characterized by a seam route on the inside edge of the Numbe
 
 
 If you see open field, convert into a [[Post]]
-Typically Ran from [[Slot Route]]
+Typically Ran from 
+#Slot-Route 

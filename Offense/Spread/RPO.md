@@ -14,4 +14,4 @@ This would allow an evolved version of the Triple Option to be adapted into the 
 
 As an extension of Leveraged-Based RPOs, [[Marshall University]] developed the [[Movement-Based RPO]]s. However, unlike their counterparts, these are based solely on the post-snap read of the quarterback. 
 
-The last type of RPO, which may be the most simple, was a development originally from [[Clemson University]]'s Offensive Coordinator [[Chad Morris]]. This type of RPO was known as the [[Numbers-Based RPO]] or Box-Count RPO. 
+The last type of RPO, which may be the most simple, was a development originally from Clemson University's Offensive Coordinator [[Chad Morris]]. This type of RPO was known as the [[Numbers-Based RPO]] or Box-Count RPO. 

@@ -7,4 +7,4 @@ Vs Man:
 Bust Out
 
 
-[[Slot Route]]
+#Slot-Route 

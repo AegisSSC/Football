@@ -4,12 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "8d32c6db6b9c68d3",
-        "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
+        "id": "87ec7291b52f7fc3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6659bea1e46813f0",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa6572f7d3d1134c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Defense/Positions/Linebackers.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -27,7 +45,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -120,17 +140,20 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8d32c6db6b9c68d3",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "6659bea1e46813f0",
   "lastOpenFiles": [
-    "Cover 1 Robber.md",
-    "Cover 1.md",
-    "Cover 2.md",
-    "Cover 3.md",
-    "Cover 0.md",
-    "Cover 6.md",
-    "Coaching Information/Bob Stoops.md",
-    "Offense/Run/Gap/Gap Run.md",
-    "Cover 4.md",
-    "Cover 7.md"
+    "Defense/Positions/Defensive Backs.md",
+    "Defense/Positions/Linebackers.md",
+    "Vocabulary/Defense Vocabulary/Pass Rush Lane.md",
+    "Offense/Spread/RPO.md",
+    "Vocabulary/Offense Vocabulary/Offensive Line.md",
+    "Defense/Positions/Defensive Line.md",
+    "Vocabulary/Defense Vocabulary/Defensive Player.md",
+    "Vocabulary/Defense Vocabulary/Rip.md",
+    "Vocabulary/Defense Vocabulary/Opposite.md",
+    "Running Back.md"
   ]
 }
