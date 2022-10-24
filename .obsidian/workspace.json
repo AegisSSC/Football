@@ -11,8 +11,12 @@
             "id": "6659bea1e46813f0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "My Offensive Philosophy.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -93,6 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "My Offensive Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,6 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "My Offensive Philosophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +136,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "My Offensive Philosophy.md"
+              }
             }
           }
         ]
@@ -145,6 +153,8 @@
   },
   "active": "6659bea1e46813f0",
   "lastOpenFiles": [
+    "My Defensive Philosophy.md",
+    "My Offensive Philosophy.md",
     "Defense/Positions/Defensive Backs.md",
     "Defense/Positions/Linebackers.md",
     "Vocabulary/Defense Vocabulary/Pass Rush Lane.md",
@@ -152,8 +162,6 @@
     "Vocabulary/Offense Vocabulary/Offensive Line.md",
     "Defense/Positions/Defensive Line.md",
     "Vocabulary/Defense Vocabulary/Defensive Player.md",
-    "Vocabulary/Defense Vocabulary/Rip.md",
-    "Vocabulary/Defense Vocabulary/Opposite.md",
-    "Running Back.md"
+    "Vocabulary/Defense Vocabulary/Rip.md"
   ]
 }
