@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Offensive Philosophy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fa6572f7d3d1134c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Defense/Positions/Linebackers.md",
+                "file": "My Defensive Philosophy.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Offensive Philosophy.md",
+                "file": "My Defensive Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Offensive Philosophy.md",
+                "file": "My Defensive Philosophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Offensive Philosophy.md"
+                "file": "My Defensive Philosophy.md"
               }
             }
           }
@@ -153,10 +141,10 @@
   },
   "active": "6659bea1e46813f0",
   "lastOpenFiles": [
-    "My Defensive Philosophy.md",
     "My Offensive Philosophy.md",
-    "Defense/Positions/Defensive Backs.md",
     "Defense/Positions/Linebackers.md",
+    "My Defensive Philosophy.md",
+    "Defense/Positions/Defensive Backs.md",
     "Vocabulary/Defense Vocabulary/Pass Rush Lane.md",
     "Offense/Spread/RPO.md",
     "Vocabulary/Offense Vocabulary/Offensive Line.md",

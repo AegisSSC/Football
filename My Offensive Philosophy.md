@@ -6,6 +6,94 @@ In Conjunction with [[My Defensive Philosophy]] It would form the foundation of 
 
 
 
+## General Offensive Style
+
+Our Offense will be structured from the trenches outward. Consistent and high level of play is the standard and nothing short will be tolerated. 
+
+
+## Offensive Line:
+
+### Left Tackle: The Mountain
+Strong and Long is the name of the game. A mountain of a man with the discipline to know how to diagnose and counter pass rush
+
+### Left Guard: Sledgehammer 
+Physical Attributes:
+	Physically will need to take on a number of different blockers as his role will be used in pulling and in trap plays. Most of the time in pass protection
+
+Run Block:
+	Will need to be nimble on his feet to get out in front of a running back and take on the first layer of blockers. Strong and powerful with a motor, seals off defenders with discipline.  
+Pass Protection:
+	Will need to be skilled and strong enough to hold up in 1 on 1 pass protection. Will work to double team with the Left Tackle before working back to the center to help with a double team. 
+
+
+### Center: Athletic Bulldozer
+Physical Attributes:	
+	Someone who is a leader of his unit and the captain of the Offensive Line. Needs to be smart as he will be in charge of pass protection adjustments at the line. 
+Run Block:
+	In Run Blocking, he will be responsible for setting the first edge of the play. On occasion he will be asked to pull and be a lead blocker, but his primary responsibility is to give chip blocks to allow for the guards to get free to move. 
+
+Pass Protection:
+	Needs to hold up the front of the pocket in pass protection with an anchor. Will first check left for stunts and defensive games before working back to the right side to help the right guard. 
+
+### Right Guard: Skilled Craftsman
+	While the physical attributes are not as demanding, he will still need to be a solid run blocker. Most of their pass blocking assignments will have the center chip, or double team this way as they will be able to make up for the slower right hand of the center. 
+
+### Right Tackle: Master Technician
+Physical Attributes:	
+	Someone who is a leader of his unit and the captain of the Offensive Line. Needs to be smart as he will be in charge of pass protection adjustments at the line. 
+Run Block:
+	In Run Blocking, he will be responsible for setting the edge of  running plays to the right. On running plays to the left, he will need to crash down and seal off the backside of the plays. 
+
+Pass Protection:
+	Stay disciplined and give and take what the defender uses. Use skill and technique to overcome discrepancies in athleticism. 
+
+## Backfield 
+
+### Quarterback:
+Physical Attributes:
+
+
+### Running back
+Physical Attributes:
+
+Pass Protection:
+
+### Fullback
+Physical Attributes:
+
+Run Block:
+
+Pass Protection:
+
+
+
+## Pass Catchers:
+
+### Boundary Receiver:
+Physical Attributes:
+
+Run Block:
+
+### Field Receiver:
+Physical Attributes:
+
+Run Block:
+
+### Slot Receiver:
+Physical Attributes:
+
+Run Block:
+
+### Tight End:
+Physical Attributes:
+
+Run Block:
+
+Pass Protection:
+
+
+
+
 ## Run Game
 
 The Run Game is going to predominantly derive itself from leverages and where we have advantages. Each Dedicated run play will be paired with another "counter" play to swap the direction of the run.  The direction of the play (and the call) will then come from the Quarterback determining which direction the advantage will be. 
@@ -31,6 +119,7 @@ https://www.milehighreport.com/22451001/difference-between-zone-and-gap-scheme
 	Zone Runs are defined by attacking either the inside or outside of a specific direction in which you are searching for a specific cutback lane. Typically, this will require a reach block either by a center or a guard in order to create a cutback lane for the runner to find and step into. Typically this type of running play can be used to set up play action and RPO plays as the foundation of both, come from a Zone Run play. 
 
 ### 2RO Games
+	2RO Games are defined as a pair of plays that are meshed together that requires the quaterback to track the box count and then find the hole in the run fit in an option play. 
 
 ### Audible Run Games
 
@@ -62,3 +151,10 @@ Long Routes will not be synchronized to a step, but rather to a timing.
 	RPO or Run Pass Option Games, are a subset of plays that combine a run and a quick pass together and rely on the quarterback to make a read on a conflict player to determine if they should keep the ball, hand it off, or pass to a receiver. In general, we will use RPO's sparingly as an extension of our run game after finding the conflict player creeping up to stop the run. We will most likely use these as an audible and less of the direct playcall. 
 	
 ### Play Action Games
+	Play Action Games are a subset of plays that combine a fake run combined with a passing play. The purpose is to bait the defense into stopping the run play when actually stepping back to pass the ball. In general, we will use Play Action Games sparingly as an extension of our run game as a method of slowing down the pass rush while also pushing the ball downfield. 
+
+
+
+
+
+
