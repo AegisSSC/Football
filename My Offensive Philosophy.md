@@ -8,15 +8,27 @@ In Conjunction with [[My Defensive Philosophy]] It would form the foundation of 
 
 ## General Offensive Style
 
+
+"Defining my Offensive Philosophy" - Power Run + Vertical Passing
+Combining Air Raid Passing concepts with Power Run to create Power Raid offense. 
+Utilizing Power Running Concepts with Vertical Passing Concepts to balance out the disadvantages of both affectionately named Power Raid. 
+
+- 60-40 Pass to Run Ratio. 
+- 2 to 3 Foot Splits between Offensive Linemen to give a better balance between Power and Air Raid
+- Using this hybrid approach, it keeps defenses honest because they have to respect both attacks
+- Has the Ability to use Passing and Rushing Attack to open up opportunities for the other. 
+- Any Quick Pass can be paired with any Rush to Create an RPO
+
+## How its built
 Our Offense will be structured from the trenches outward. Consistent and high level of play is the standard and nothing short will be tolerated. 
 
 
 ## Offensive Line:
 
-### Left Tackle: The Mountain
+### Left Tackle: (The Mountain)
 Strong and Long is the name of the game. A mountain of a man with the discipline to know how to diagnose and counter pass rush
 
-### Left Guard: Sledgehammer 
+### Left Guard: (Sledgehammer) 
 Physical Attributes:
 	Physically will need to take on a number of different blockers as his role will be used in pulling and in trap plays. Most of the time in pass protection
 
@@ -26,7 +38,7 @@ Pass Protection:
 	Will need to be skilled and strong enough to hold up in 1 on 1 pass protection. Will work to double team with the Left Tackle before working back to the center to help with a double team. 
 
 
-### Center: Athletic Bulldozer
+### Center: Athletic (Bulldozer)
 Physical Attributes:	
 	Someone who is a leader of his unit and the captain of the Offensive Line. Needs to be smart as he will be in charge of pass protection adjustments at the line. 
 Run Block:
@@ -35,10 +47,10 @@ Run Block:
 Pass Protection:
 	Needs to hold up the front of the pocket in pass protection with an anchor. Will first check left for stunts and defensive games before working back to the right side to help the right guard. 
 
-### Right Guard: Skilled Craftsman
+### Right Guard: (Skilled Craftsman)
 	While the physical attributes are not as demanding, he will still need to be a solid run blocker. Most of their pass blocking assignments will have the center chip, or double team this way as they will be able to make up for the slower right hand of the center. 
 
-### Right Tackle: Master Technician
+### Right Tackle: (Master Technician)
 Physical Attributes:	
 	Someone who is a leader of his unit and the captain of the Offensive Line. Needs to be smart as he will be in charge of pass protection adjustments at the line. 
 Run Block:
@@ -132,7 +144,31 @@ Short Routes will be synchronized to the 3rd and 5th drop of the quarterback
 ### Short Routes
 	As a general rule, the reciever is expected to stem off their route and turn to look for the ball on the quarterback's 3rd step for in breaking routes. This is aligned to get the ball into their hands as quick as possible while linebackers are in rotation, or before they're able to drop back from a firezone. Most of the time, the quarterback will be focused on the first read or the hot route before continuing progression. 
 
-	On the otherhand, the receiver is expexted to stem off their route and look for the ball on the quarterback's 5th step for out breaking routes. This is to allowed to give the receiver a better chance of gaining leverage on outbreaking routes. In general, on outbreaking routes where: Against Buzz, they can gain significant leverage above them; Against Press Man, they have more room to generate space; Against Flats, they are able to find the soft spot in the zone to settle into. Most of the time, the quarterback will only read the first and second reads, or the hot route before continuing progression . 
+	On the otherhand, the receiver is expexted to stem off their route and look for the ball on the quarterback's 5th step for out breaking routes. This is to allowed to give the receiver a better chance of gaining leverage on outbreaking routes. In general, on outbreaking routes where: Against Buzz, they can gain significant leverage above them; Against Press Man, they have more room to generate space; Against Flats, they are able to find the soft spot in the zone to settle into. Most of the time, the quarterback will only read the first and second reads, or the hot route before continuing progression.
+
+	In general, Short Routes will either start with a 30's or 50's that correspond to the depth of drop to the first read. (30 corresponds to a 3 step drop. 50 corresponds to a 5 step drop)
+
+| Route | Steps in Drop | First Read | Hot Read |
+| ----- | ------------- | ---------- | -------- |
+| 11    | 1             | X          |          |
+| 12    | 1             | Z          |          |
+| 13    | 1             | Y          |          |
+| 14    | 1             | H          |          |
+| 21    | 2             | X          |          |
+| 22    | 2             | Z          |          |
+| 23    | 2             | Y          |          |
+| 24    | 2             | H          | Y        |
+| 31    | 3             | X          | H        |
+| 32    | 3             | Z          | H        |
+| 33    | 3             | Y          | H        |
+| 34    | 3             | H          | Y        |
+| 41    | 3             | X          | H        |
+| 42    | 3             | Z          | H        |
+| 43    | 3             | Y          | H        |
+| 44    | 3             | H          | H        |
+
+
+
 
 Medium Routes will be synchronized to the 5th and 7th step of the quarterback
 ### Medium Routes
@@ -141,15 +177,44 @@ Medium Routes will be synchronized to the 5th and 7th step of the quarterback
 
 	As a rule of the offense, the receiver is expected to stem off their route and turn to look for the ball on the quarterback's 7th step for out breaking routes or bootleg plays. On out breaking routes, the 7th step is used to allow for more time to give more time to gain depth while also allowing the quaterback more time to read the field, the 7th step is reserved for second reads and is classified as the end of the step system for Quick Passing schemes. At this point, the quarterback should either have found a route to pass to, or should prepare to scramble.  
 
+| Route | Steps in Drop | First Read | Hot Read |
+| ----- | ------------- | ---------- | -------- |
+| 51    | 5             | X          | H        |
+| 52    | 5             | Z          | H        |
+| 53    | 5             | Y          | H        |
+| 54    | 5             | H          | Y        |
+| 61    | 5             | X          | H        |
+| 62    | 5             | Z          | H        |
+| 63    | 5             | Y          | H        |
+| 64    | 5             | H          | H        |
+
 Long Routes will not be synchronized to a step, but rather to a timing.
 ### Long Routes
 
 	As a rule of the offense, the reciever has a fixed amount of time to stem off their route. In general, most long developing routes are paired with a congruent short breaking route to give a 2-level read for the quarterback. This is meant to force defenders into conflict on who to cover as both players are overflowing into the same area of the field. 
- 
+
+| Route | Steps in Drop | First Read | Hot Read |
+| ----- | ------------- | ---------- | -------- |
+| 71    | 7             | X          | H        |
+| 72    | 7             | Z          | H        |
+| 73    | 7             | Y          | H        |
+| 74    | 7             | H          | Y        |
+| 81    | 7             | X          | H        |
+| 82    | 7             | Z          | H        |
+| 83    | 7             | Y          | H        |
+| 84    | 7             | H          | H        |
+| 91    | 9             | X          | H        |
+| 92    | 9             | Z          | H        |
+| 93    | 9             | Y          | H        |
+| 94    | 9             | H          | Y        |
+
 
 ### RPO Games
-	RPO or Run Pass Option Games, are a subset of plays that combine a run and a quick pass together and rely on the quarterback to make a read on a conflict player to determine if they should keep the ball, hand it off, or pass to a receiver. In general, we will use RPO's sparingly as an extension of our run game after finding the conflict player creeping up to stop the run. We will most likely use these as an audible and less of the direct playcall. 
-	
+	RPO or Run Pass Option Games, are a subset of plays that combine a run and a quick pass together and rely on the quarterback to make a read on a conflict player to determine if they should keep the ball, hand it off, or pass to a receiver. In general, we will rarely call an RPO directly, we allow our Quarterback to utilize RPOs as a problem solving tool. RPOs also serve as an extension of our run game after finding the conflict player creeping up to stop the run. 
+
+	Since all of our RPOs are built from a Run and Quick Pass Combination, it can be used as an audible to ensure the best possible solution for the Quarterback to use. 
+
+
 ### Play Action Games
 	Play Action Games are a subset of plays that combine a fake run combined with a passing play. The purpose is to bait the defense into stopping the run play when actually stepping back to pass the ball. In general, we will use Play Action Games sparingly as an extension of our run game as a method of slowing down the pass rush while also pushing the ball downfield. 
 

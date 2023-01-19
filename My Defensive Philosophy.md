@@ -46,16 +46,16 @@ Pass Protection:
 
 ## Linebackers
 
-### Quarterback:
+### Inside Linebacker:
 Physical Attributes:
 
 
-### Running back
+### Right Outside Linebacker
 Physical Attributes:
 
 Pass Protection:
 
-### Fullback
+### Left Outside Linebacker
 Physical Attributes:
 
 Run Block:

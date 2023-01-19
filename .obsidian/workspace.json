@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Defensive Philosophy.md",
+                "file": "My Offensive Philosophy.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Defensive Philosophy.md",
+                "file": "My Offensive Philosophy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Defensive Philosophy.md",
+                "file": "My Offensive Philosophy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Defensive Philosophy.md"
+                "file": "My Offensive Philosophy.md"
               }
             }
           }
@@ -136,20 +136,28 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
   },
   "active": "6659bea1e46813f0",
   "lastOpenFiles": [
-    "My Offensive Philosophy.md",
-    "Defense/Positions/Linebackers.md",
     "My Defensive Philosophy.md",
+    "Mike Leech.md",
+    "Hal Mumme.md",
+    "My Offensive Philosophy.md",
+    "2023-01-19.md",
+    "Defense/Positions/Linebackers.md",
     "Defense/Positions/Defensive Backs.md",
     "Vocabulary/Defense Vocabulary/Pass Rush Lane.md",
     "Offense/Spread/RPO.md",
-    "Vocabulary/Offense Vocabulary/Offensive Line.md",
-    "Defense/Positions/Defensive Line.md",
-    "Vocabulary/Defense Vocabulary/Defensive Player.md",
-    "Vocabulary/Defense Vocabulary/Rip.md"
+    "Vocabulary/Offense Vocabulary/Offensive Line.md"
   ]
 }
