@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "87ec7291b52f7fc3",
+        "id": "c82335da5fa67265",
         "type": "tabs",
         "children": [
           {
-            "id": "6659bea1e46813f0",
+            "id": "d7ed1b1f8f73c514",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 283.5
+    "width": 215.5
   },
   "right": {
     "id": "1a0c954553791969",
@@ -147,17 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "6659bea1e46813f0",
+  "active": "d7ed1b1f8f73c514",
   "lastOpenFiles": [
-    "Coaching Information/Mike Leach.md",
-    "Coaching Information/Mike Shanahan.md",
-    "Coaching Information/Kyle Shanahan.md",
-    "Coaching Information/Nick Saban.md",
-    "Coaching Information/Bob Stoops.md",
-    "My Offensive Philosophy.md",
-    "Coaching Information/Hal Mumme.md",
-    "My Defensive Philosophy.md",
     "2023-01-19.md",
-    "Defense/Positions/Linebackers.md"
+    "My Defensive Philosophy.md",
+    "Modern Clemson Defense Philosophy.md",
+    "Pasted image 20230123121814.png",
+    "Pasted image 20230123121819.png",
+    "My Offensive Philosophy.md",
+    "Vocabulary/Defense Vocabulary/Pass Rush Lane.md",
+    "Defense/Positions/Defensive Line.md",
+    "Defense/Positions/Nose Tackle.md",
+    "Defense/Positions/Defensive End.md"
   ]
 }

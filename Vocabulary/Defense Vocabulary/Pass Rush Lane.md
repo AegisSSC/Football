@@ -1,6 +1,6 @@
-Pash Rush Lanes are numbered into Even and Odds
+Pass Rush Lanes are numbered into Even and Odds
 
-Responsibilies Differ from Even and Odd Techniques. 
+Responsibilities Differ from Even and Odd Techniques. 
 On Even Techniques, you have 2 [[Gap Assignments]] Responsibilities
 [[Two Gap Technique]] 
 On Odd Techniques, you have 1 [[Gap Assignments]] Responsibilities
