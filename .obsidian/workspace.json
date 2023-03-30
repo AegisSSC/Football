@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 283.5
   },
   "right": {
     "id": "1a0c954553791969",
@@ -149,15 +149,15 @@
   },
   "active": "6659bea1e46813f0",
   "lastOpenFiles": [
-    "My Defensive Philosophy.md",
-    "Mike Leech.md",
-    "Hal Mumme.md",
+    "Coaching Information/Mike Leach.md",
+    "Coaching Information/Mike Shanahan.md",
+    "Coaching Information/Kyle Shanahan.md",
+    "Coaching Information/Nick Saban.md",
+    "Coaching Information/Bob Stoops.md",
     "My Offensive Philosophy.md",
+    "Coaching Information/Hal Mumme.md",
+    "My Defensive Philosophy.md",
     "2023-01-19.md",
-    "Defense/Positions/Linebackers.md",
-    "Defense/Positions/Defensive Backs.md",
-    "Vocabulary/Defense Vocabulary/Pass Rush Lane.md",
-    "Offense/Spread/RPO.md",
-    "Vocabulary/Offense Vocabulary/Offensive Line.md"
+    "Defense/Positions/Linebackers.md"
   ]
 }
