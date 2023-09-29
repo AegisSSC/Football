@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c82335da5fa67265",
+        "id": "ec14ceb35d2ac773",
         "type": "tabs",
         "children": [
           {
-            "id": "d7ed1b1f8f73c514",
+            "id": "c98396c0f4daa012",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Offensive Philosophy.md",
+                "file": "Doug Peterson.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "26858e7bff688c9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Doug Peterson.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -64,12 +77,20 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "68be91ebe5112f1a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 215.5
+    "width": 329.5
   },
   "right": {
     "id": "1a0c954553791969",
@@ -85,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "My Offensive Philosophy.md",
+                "file": "Doug Peterson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "My Offensive Philosophy.md",
+                "file": "Doug Peterson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +146,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "My Offensive Philosophy.md"
+                "file": "Doug Peterson.md"
               }
             }
+          },
+          {
+            "id": "6d8b301535a1379e",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,17 +176,39 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d7ed1b1f8f73c514",
+  "active": "26858e7bff688c9f",
   "lastOpenFiles": [
-    "2023-01-19.md",
-    "My Defensive Philosophy.md",
-    "Modern Clemson Defense Philosophy.md",
-    "Pasted image 20230123121814.png",
-    "Pasted image 20230123121819.png",
-    "My Offensive Philosophy.md",
-    "Vocabulary/Defense Vocabulary/Pass Rush Lane.md",
-    "Defense/Positions/Defensive Line.md",
-    "Defense/Positions/Nose Tackle.md",
-    "Defense/Positions/Defensive End.md"
+    "2022 Jacksonville Offense.md",
+    "Doug Peterson.md",
+    "Coaching Information/NFL Teams/NFC/Washington Redskins.md",
+    "Coaching Information/NFL Teams/NFC/Tampa Bay Buccaneers.md",
+    "Coaching Information/NFL Teams/NFC/Seattle Seahawks.md",
+    "Coaching Information/NFL Teams/NFC/San Francisco 49ers.md",
+    "Coaching Information/NFL Teams/NFC/Philadelphia Eagles.md",
+    "Coaching Information/NFL Teams/NFC/New Orleans Saints.md",
+    "Coaching Information/NFL Teams/NFC/Minnesota Vikings.md",
+    "Coaching Information/NFL Teams/NFC/Los Angeles Rams.md",
+    "Coaching Information/NFL Teams/NFC/Green Bay Packers.md",
+    "Coaching Information/NFL Teams/NFC/Dallas Cowboys.md",
+    "Coaching Information/NFL Teams/NFC/Chicago Bears.md",
+    "Coaching Information/NFL Teams/NFC/Atlanta Falcons.md",
+    "Coaching Information/NFL Teams/AFC/Pittsburgh Steelers.md",
+    "Coaching Information/NFL Teams/AFC/New York Jets.md",
+    "Coaching Information/NFL Teams/AFC/Miami Dolphins.md",
+    "Coaching Information/NFL Teams/AFC/Las  Vegas Raiders.md",
+    "Coaching Information/NFL Teams/AFC/Kansas City Chiefs.md",
+    "Coaching Information/NFL Teams/AFC/Jacksonville Jaguars.md",
+    "Coaching Information/NFL Teams/AFC/Indianapolis Colts.md",
+    "Coaching Information/NFL Teams/AFC/Houston Texans.md",
+    "Coaching Information/NFL Teams/AFC/Cleveland Browns.md",
+    "Coaching Information/NFL Teams/AFC/Buffalo Bills.md",
+    "2023-07-18.md",
+    "Untitled.canvas",
+    "Vocabulary/NFL.md",
+    "Coaching Information/NFL Teams/AFC",
+    "Coaching Information/NFL Teams/NFC",
+    "Coaching Information/Pasted image 20230123121814.png",
+    "Untitled 1.canvas",
+    "Pasted image 20230123121819.png"
   ]
 }

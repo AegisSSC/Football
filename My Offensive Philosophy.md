@@ -17,12 +17,10 @@ Utilizing Power Running Concepts with Vertical Passing Concepts to balance out t
 	The goal is to simplify the rules of engagement while applying pressure up the middle and capitalizing on 1 on 1 opportunities in which we leverage size, and physicality to win vertically while winning with speed horizontally.
 
 - 60-40 Pass to Run Ratio. 
-- 2 to 3 Foot Splits between Offensive Linemen to give a better balance between Power and Air Raid
-- Using this hybrid approach, it keeps defenses honest because they have to respect both attacks
-- Has the Ability to use Passing and Rushing Attack to open up opportunities for the other. 
-- Any Quick Pass can be paired with any Rush to Create an RPO opportunity
-- Any Run can be paired with any Quick Pass to Create an RPO opportunity
-
+- 2 to 3 Foot Splits between Offensive Linemen to give a uniform spacing between our Power Run Game and Air Raid Passing concepts. While it may seem counterintuitive since typically splitting the middle of the two leaves you in the worst of both spots, it also gives uniform Offensive Line looks and allows us to train how to handle situations from the same footing. 
+- Using this hybrid approach, it keeps defenses honest because they have to respect both rushing and passing attacks as there are enough play calls out of the same formation to limit the number of tells.  
+- Has the Ability to use both Passing and Rushing audibles to attack opening based on opportunities presented by the defense. 
+- Allows us to pair any Quick Pass with any Rush to Create an RPO opportunity to exploit a light box. By Proxy, allows us to pair any Rush with any Quick Pass to create an RPO opportunity against a heavy box. 
 
 ## How its built
 Our Offense will be structured from the trenches outward. Consistent and high level of play is the standard and nothing short will be tolerated. 
@@ -35,12 +33,12 @@ Strong and Long is the name of the game. A mountain of a man with the discipline
 
 ### Left Guard: 
 Physical Attributes:
-	Physically will need to take on a number of different blockers as his role will be used in pulling and in trap plays. Most of the time in pass protection
+	Physically will need to take on a number of different blockers as his role will be used in pulling and in trap plays. Most of the time in pass protection they will be in one-on-one situations and as such they will need to handle their own in protection.
 
 Run Block:
 	Will need to be nimble on his feet to get out in front of a running back and take on the first layer of blockers. Strong and powerful with a motor, seals off defenders with discipline.  
 Pass Protection:
-	Will need to be skilled and strong enough to hold up in 1 on 1 pass protection. Will work to double team with the Left Tackle before working back to the center to help with a double team. 
+	Will need to be skilled and strong enough to hold up in 1 on 1 pass protection though it may not always be necessary.  In general, they will work to double team with the Left Tackle before working back to the center to help with a double team. 
 
 
 ### Center: Athletic
@@ -53,7 +51,7 @@ Pass Protection:
 	Needs to hold up the front of the pocket in pass protection with an anchor. Will first check left for stunts and defensive games before working back to the right side to help the right guard. 
 
 ### Right Guard: 
-	While the physical attributes (Height, Weight, Arm Length) are not as demanding, he will still need to be a craftsman with his hand placement. Most of their pass blocking assignments will have the center look to chip to their side first, they will still need to handle one-on-one blocking assignments, or double team this way as they will be able to make up for the slower right hand of the center. 
+	While the physical attributes (Height, Weight, Arm Length) are not as demanding, he will still need to be an expert with his hands. Most of their pass blocking assignments will have the center look to chip to their side first, they will still need to handle one-on-one blocking assignments, or double team this way as they will be able to make up for the slower right hand of the center. 
 
 Against 0-T:
 	In the instance where there is a 0-T is playing true to his assignment (directly over the center) the guard to the Center's Playside hand will be responsible for  Chipping and/or Double Teaming the 0-T in pass protection.

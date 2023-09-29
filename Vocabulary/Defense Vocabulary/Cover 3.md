@@ -4,7 +4,7 @@ Cover 3 is a zone [[Defensive Coverage]]with corners and safeties protecting the
 
 ## Cover 3 Philosophy
 
-Cover 3 balances pass coverage with run defense. The extra safety in the box helps protect against the run and the zone coverage underneath can transfer crossers that would cause issues for [man coverages](https://weeklyspiral.com/2021/07/12/cover-1/). Some teams will also play press Cover 3 outside to prevent easy access throws that would come with off coverage. The Seahawks were famous in the 2010s for their [physical style of press bail Cover 3](https://www.nbcsports.com/northwest/seattle-seahawks/seahawks-legion-boom-decade-suffocating-opposing-offenses).
+[[Base Cover 3]] balances pass coverage with run defense. The extra safety in the box helps protect against the run and the zone coverage underneath can transfer crossers that would cause issues for [man coverages](https://weeklyspiral.com/2021/07/12/cover-1/). Some teams will also play press Cover 3 outside to prevent easy access throws that would come with off coverage. The Seahawks were famous in the 2010s for their [physical style of press bail Cover 3](https://www.nbcsports.com/northwest/seattle-seahawks/seahawks-legion-boom-decade-suffocating-opposing-offenses).
 
 While Cover 3 keeps an additional player to help against the run, there are still only four underneath zone defenders and offenses will often try to stress the amount of field that those those players have to cover.
 
@@ -45,6 +45,7 @@ Coverages that you can play from Cover 3
 [[Cover 3 Sky]]
 [[Cover 7 Up]]
 [[Cover 6 Up]]
+[[Cover 3 Mable]]
 
 
 
