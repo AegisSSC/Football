@@ -1,5 +1,6 @@
 {
   "translucency": false,
   "accentColor": "",
-  "baseFontSize": 17
+  "baseFontSize": 17,
+  "cssTheme": "Things"
 }
