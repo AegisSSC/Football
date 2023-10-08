@@ -1,5 +1,4 @@
 
-![[Pasted image 20230123121819.png]]
 
 **Michael Charles Leach** (March 9, 1961 – December 12, 2022) was an American college football coach who primarily coached at the NCAA Division I FBS level. He was a two-time national coach of the year, three-time conference coach of the year and the mastermind behind the NCAA record-setting [[Air Raid]] offense. He was the head coach at [[Texas Tech University]] from 2000 to 2009, where he became the winningest coach in school history. After Texas Tech, he coached at [[Washington State University]] from 2012 to 2019, where he recorded the third-most wins of any coach in school history. He then coached at [[Mississippi State University]] from 2020 until his death in 2022.
 

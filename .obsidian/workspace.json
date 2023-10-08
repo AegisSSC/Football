@@ -25,14 +25,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doug Peterson.md",
+                "file": "My Offensive Philosophy.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "b2e5e24d6cabd1b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "21 Ace Motion IZ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b0ad9b6dc693b09d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -106,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Doug Peterson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +142,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Doug Peterson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,9 +163,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Doug Peterson.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,10 +192,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "26858e7bff688c9f",
+  "active": "b0ad9b6dc693b09d",
   "lastOpenFiles": [
-    "2022 Jacksonville Offense.md",
+    "Untitled.canvas",
+    "Pasted image 20230123121814.png",
+    "Pasted image 20230123121814 1.png",
+    "Pasted image 20231008023854.png",
+    "Coaching Information/Bob Stoops.md",
+    "Coaching Information/Brent Venables.md",
+    "Coaching Information/Hal Mumme.md",
+    "Coaching Information/Lane Kiffin.md",
+    "Coaching Information/Mike Leach.md",
+    "Coaching Information/Mike Tomlin.md",
+    "Coaching Information/Monte Kiffin.md",
+    "Pasted image 20230123121819.png.md",
+    "Coaching Information/Mike Shanahan.md",
+    "21 Ace Motion Tunnel Screen.md",
+    "Pasted image 20231008031120.png",
+    "Pasted image 20231008031105.png",
+    "21 Ace Motion IZ.md",
+    "21 Ace Motion IZ Read Option.md",
+    "Pasted image 20231008023333.png",
+    "My Offensive Philosophy.md",
+    "My Defensive Philosophy.md",
     "Doug Peterson.md",
+    "2022 Jacksonville Offense.md",
     "Coaching Information/NFL Teams/NFC/Washington Redskins.md",
     "Coaching Information/NFL Teams/NFC/Tampa Bay Buccaneers.md",
     "Coaching Information/NFL Teams/NFC/Seattle Seahawks.md",
@@ -189,25 +226,8 @@
     "Coaching Information/NFL Teams/NFC/Minnesota Vikings.md",
     "Coaching Information/NFL Teams/NFC/Los Angeles Rams.md",
     "Coaching Information/NFL Teams/NFC/Green Bay Packers.md",
-    "Coaching Information/NFL Teams/NFC/Dallas Cowboys.md",
-    "Coaching Information/NFL Teams/NFC/Chicago Bears.md",
-    "Coaching Information/NFL Teams/NFC/Atlanta Falcons.md",
-    "Coaching Information/NFL Teams/AFC/Pittsburgh Steelers.md",
-    "Coaching Information/NFL Teams/AFC/New York Jets.md",
-    "Coaching Information/NFL Teams/AFC/Miami Dolphins.md",
-    "Coaching Information/NFL Teams/AFC/Las  Vegas Raiders.md",
-    "Coaching Information/NFL Teams/AFC/Kansas City Chiefs.md",
-    "Coaching Information/NFL Teams/AFC/Jacksonville Jaguars.md",
-    "Coaching Information/NFL Teams/AFC/Indianapolis Colts.md",
-    "Coaching Information/NFL Teams/AFC/Houston Texans.md",
-    "Coaching Information/NFL Teams/AFC/Cleveland Browns.md",
-    "Coaching Information/NFL Teams/AFC/Buffalo Bills.md",
-    "2023-07-18.md",
-    "Untitled.canvas",
-    "Vocabulary/NFL.md",
     "Coaching Information/NFL Teams/AFC",
     "Coaching Information/NFL Teams/NFC",
-    "Coaching Information/Pasted image 20230123121814.png",
     "Untitled 1.canvas",
     "Pasted image 20230123121819.png"
   ]
