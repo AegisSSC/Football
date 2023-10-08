@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doug Peterson.md",
+                "file": "Coaching Information/Doug Peterson.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "21 Ace Motion IZ.md",
+                "file": "Play Design/12 Ace Motion IZ.md",
                 "mode": "source",
                 "source": false
               }
@@ -47,8 +47,12 @@
             "id": "b0ad9b6dc693b09d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Play Design/12 Ace Hi-Lo Flood Right.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -110,7 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 259.5
   },
   "right": {
     "id": "1a0c954553791969",
@@ -126,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Play Design/12 Ace Hi-Lo Flood Right.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Play Design/12 Ace Hi-Lo Flood Right.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Play Design/12 Ace Hi-Lo Flood Right.md"
+              }
             }
           },
           {
@@ -179,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,7 +203,31 @@
   },
   "active": "b0ad9b6dc693b09d",
   "lastOpenFiles": [
+    "Play Design/12 Ace IZ.md",
+    "Play Design/12 Ace Lead Motion Glance RPO.md",
+    "Play Design/12 Ace Lead Motion QB Option Counter.md",
+    "Play Design/12 Ace Lead Motion Zone Read.md",
+    "Play Design/12 Ace Motion IZ.md",
+    "Play Design/12 Ace Hi-Lo Flood Right.md",
+    "Play Design/12 Ace Motion IZ Read Option.md",
+    "Pasted image 20231008040443.png",
+    "Pasted image 20231008040332.png",
+    "Pasted image 20231008034907.png",
+    "Play Design/12 Ace Motion OZ.md",
+    "Pasted image 20231008034502.png",
+    "Play Design/12 Ace Motion Tunnel Screen.md",
+    "Play Design/12 Ace.md",
+    "Pasted image 20231008034014.png",
+    "Pasted image 20231008033618.png",
+    "Pasted image 20231008033615.png",
+    "Offense/2022 Jacksonville Offense.md",
+    "2023-01-19.md",
+    "2023-07-18.md",
+    "My Defensive Philosophy.md",
+    "My Offensive Philosophy.md",
+    "README.md",
     "Untitled.canvas",
+    "Play Design",
     "Pasted image 20230123121814.png",
     "Pasted image 20230123121814 1.png",
     "Pasted image 20231008023854.png",
@@ -207,28 +240,8 @@
     "Coaching Information/Monte Kiffin.md",
     "Pasted image 20230123121819.png.md",
     "Coaching Information/Mike Shanahan.md",
-    "21 Ace Motion Tunnel Screen.md",
-    "Pasted image 20231008031120.png",
-    "Pasted image 20231008031105.png",
-    "21 Ace Motion IZ.md",
-    "21 Ace Motion IZ Read Option.md",
-    "Pasted image 20231008023333.png",
-    "My Offensive Philosophy.md",
-    "My Defensive Philosophy.md",
-    "Doug Peterson.md",
-    "2022 Jacksonville Offense.md",
-    "Coaching Information/NFL Teams/NFC/Washington Redskins.md",
-    "Coaching Information/NFL Teams/NFC/Tampa Bay Buccaneers.md",
-    "Coaching Information/NFL Teams/NFC/Seattle Seahawks.md",
-    "Coaching Information/NFL Teams/NFC/San Francisco 49ers.md",
-    "Coaching Information/NFL Teams/NFC/Philadelphia Eagles.md",
-    "Coaching Information/NFL Teams/NFC/New Orleans Saints.md",
-    "Coaching Information/NFL Teams/NFC/Minnesota Vikings.md",
-    "Coaching Information/NFL Teams/NFC/Los Angeles Rams.md",
-    "Coaching Information/NFL Teams/NFC/Green Bay Packers.md",
     "Coaching Information/NFL Teams/AFC",
     "Coaching Information/NFL Teams/NFC",
-    "Untitled 1.canvas",
-    "Pasted image 20230123121819.png"
+    "Untitled 1.canvas"
   ]
 }

@@ -3,7 +3,10 @@
 ![[Pasted image 20231008031120.png]]
 
 Formation:
-21 Ace Left Full Motion
+12 Ace Left Full Motion
+
+Family:
+[[12 Ace]] - #Pass - #Screen
 
 Premise:
 This is another one of the Ace Right Motion plays that are meant to frustrate the linebackers and keep Defenses honest in the running game. In Particular, this is meant to punish Linebackers from sinking into the gaps and getting the ball out on the perimeter. 

@@ -3,7 +3,10 @@
 
 
 Formation:
-21 Ace Right Motion
+12 Ace Right Motion
+
+Family:
+[[12 Ace]] - #Run
 
 Premise:
 This is another one of the Ace Right Motion plays that are meant to frustrate the linebackers and keep Defenses honest in the running game. 

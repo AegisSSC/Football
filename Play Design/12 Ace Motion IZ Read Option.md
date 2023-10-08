@@ -2,10 +2,13 @@
 ![[Pasted image 20231008023333.png]]
 
 Formation:
-21 Ace Right Motion
+12 Ace Right Motion
+
+Family:
+[[12 Ace]] - #Run #Option
 
 Premise:
-This is another one of the Ace Right Motion plays that are meant to frustrate the linebackers and keep Defenses honest in the running game. This is an extension of the [[21 Ace Motion IZ]] play as this gives the Quarterback a Read Option to punish a Sam Linebacker that cheats over too early to crash down onto  the A Gap. 
+This is another one of the Ace Right Motion plays that are meant to frustrate the linebackers and keep Defenses honest in the running game. This is an extension of the [[12 Ace Motion IZ]] play as this gives the Quarterback a Read Option to punish a Sam Linebacker that cheats over too early to crash down onto  the A Gap. 
 
 # Responsibilities:
 
