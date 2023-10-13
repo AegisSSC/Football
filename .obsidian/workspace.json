@@ -49,7 +49,11 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Play Design/12 Ace Hi-Lo Flood Right.md",
+=======
+                "file": "Hi-Lo Concepts.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +134,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Play Design/12 Ace Hi-Lo Flood Right.md",
+=======
+                "file": "Hi-Lo Concepts.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +155,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Play Design/12 Ace Hi-Lo Flood Right.md",
+=======
+                "file": "Hi-Lo Concepts.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,11 @@
             "state": {
               "type": "outline",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Play Design/12 Ace Hi-Lo Flood Right.md"
+=======
+                "file": "Hi-Lo Concepts.md"
+>>>>>>> Stashed changes
               }
             }
           },
@@ -203,6 +219,7 @@
   },
   "active": "b0ad9b6dc693b09d",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "Play Design/12 Ace Motion Tunnel Screen.md",
     "Play Design/12 Ace Lead Motion Y Flat.md",
     "Pasted image 20231008040925.png",
@@ -225,6 +242,11 @@
     "Offense/2022 Jacksonville Offense.md",
     "2023-01-19.md",
     "2023-07-18.md",
+=======
+    "Pasted image 20230906142518.png",
+    "Pasted image 20230906140927.png",
+    "Pasted image 20230906135656.png",
+>>>>>>> Stashed changes
     "My Defensive Philosophy.md",
     "My Offensive Philosophy.md",
     "README.md",
