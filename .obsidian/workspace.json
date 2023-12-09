@@ -54,9 +54,17 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d2cbd7c76adde512",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -130,7 +138,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Play Design/12 Ace Hi-Lo Flood Right.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +154,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Play Design/12 Ace Hi-Lo Flood Right.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +175,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Play Design/12 Ace Hi-Lo Flood Right.md"
-              }
+              "state": {}
             }
           },
           {
@@ -201,8 +205,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0ad9b6dc693b09d",
+  "active": "d2cbd7c76adde512",
   "lastOpenFiles": [
+    "Untitled.canvas",
+    "README.md",
+    "Defense/Buffalo.md",
+    "Defense/Monte's Tampa 2 Rules.md",
+    "Defense/Modern Clemson Defense Philosophy.md",
+    "Defense/Base 4-3/Venables System.md",
     "Play Design/12 Ace Motion Tunnel Screen.md",
     "Play Design/12 Ace Lead Motion Y Flat.md",
     "Pasted image 20231008040925.png",
@@ -227,8 +237,6 @@
     "2023-07-18.md",
     "My Defensive Philosophy.md",
     "My Offensive Philosophy.md",
-    "README.md",
-    "Untitled.canvas",
     "Play Design",
     "Pasted image 20230123121814.png",
     "Pasted image 20230123121814 1.png",
@@ -236,10 +244,6 @@
     "Coaching Information/Brent Venables.md",
     "Coaching Information/Hal Mumme.md",
     "Coaching Information/Lane Kiffin.md",
-    "Coaching Information/Mike Leach.md",
-    "Coaching Information/Mike Tomlin.md",
-    "Coaching Information/Monte Kiffin.md",
-    "Pasted image 20230123121819.png.md",
     "Coaching Information/NFL Teams/AFC",
     "Coaching Information/NFL Teams/NFC",
     "Untitled 1.canvas"
