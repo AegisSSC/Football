@@ -49,22 +49,18 @@
             "state": {
               "type": "markdown",
               "state": {
+<<<<<<< Updated upstream
                 "file": "Play Design/12 Ace Hi-Lo Flood Right.md",
+=======
+                "file": "Hi-Lo Concepts.md",
+>>>>>>> Stashed changes
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "d2cbd7c76adde512",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -138,6 +134,11 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
+                "file": "Play Design/12 Ace Hi-Lo Flood Right.md",
+=======
+                "file": "Hi-Lo Concepts.md",
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -154,6 +155,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
+                "file": "Play Design/12 Ace Hi-Lo Flood Right.md",
+=======
+                "file": "Hi-Lo Concepts.md",
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +181,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+<<<<<<< Updated upstream
+                "file": "Play Design/12 Ace Hi-Lo Flood Right.md"
+=======
+                "file": "Hi-Lo Concepts.md"
+>>>>>>> Stashed changes
+              }
             }
           },
           {
@@ -205,14 +217,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d2cbd7c76adde512",
+  "active": "b0ad9b6dc693b09d",
   "lastOpenFiles": [
-    "Untitled.canvas",
-    "README.md",
-    "Defense/Buffalo.md",
-    "Defense/Monte's Tampa 2 Rules.md",
-    "Defense/Modern Clemson Defense Philosophy.md",
-    "Defense/Base 4-3/Venables System.md",
+<<<<<<< Updated upstream
     "Play Design/12 Ace Motion Tunnel Screen.md",
     "Play Design/12 Ace Lead Motion Y Flat.md",
     "Pasted image 20231008040925.png",
@@ -235,8 +242,15 @@
     "Offense/2022 Jacksonville Offense.md",
     "2023-01-19.md",
     "2023-07-18.md",
+=======
+    "Pasted image 20230906142518.png",
+    "Pasted image 20230906140927.png",
+    "Pasted image 20230906135656.png",
+>>>>>>> Stashed changes
     "My Defensive Philosophy.md",
     "My Offensive Philosophy.md",
+    "README.md",
+    "Untitled.canvas",
     "Play Design",
     "Pasted image 20230123121814.png",
     "Pasted image 20230123121814 1.png",
@@ -244,6 +258,10 @@
     "Coaching Information/Brent Venables.md",
     "Coaching Information/Hal Mumme.md",
     "Coaching Information/Lane Kiffin.md",
+    "Coaching Information/Mike Leach.md",
+    "Coaching Information/Mike Tomlin.md",
+    "Coaching Information/Monte Kiffin.md",
+    "Pasted image 20230123121819.png.md",
     "Coaching Information/NFL Teams/AFC",
     "Coaching Information/NFL Teams/NFC",
     "Untitled 1.canvas"
