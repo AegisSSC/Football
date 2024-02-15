@@ -1,2 +1,2 @@
 [[NCAAF]]
-[[PAC 12 Conference]]
+#PAC_12_Conference

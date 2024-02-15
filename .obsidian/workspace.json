@@ -4,63 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "ec14ceb35d2ac773",
+        "id": "8f9d5deb226129b0",
         "type": "tabs",
         "children": [
           {
-            "id": "c98396c0f4daa012",
+            "id": "6613d52f657feb77",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coaching Information/Doug Peterson.md",
+                "file": "Coaching Information/Ben Johnson.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "26858e7bff688c9f",
+            "id": "ded1d678017f37bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "My Offensive Philosophy.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b2e5e24d6cabd1b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Play Design/12 Ace Motion IZ.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b0ad9b6dc693b09d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "Play Design/12 Ace Hi-Lo Flood Right.md",
-=======
-                "file": "Hi-Lo Concepts.md",
->>>>>>> Stashed changes
+                "file": "Coaching Information/Ben Johnson.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +78,7 @@
             }
           },
           {
-            "id": "68be91ebe5112f1a",
+            "id": "76594ecd1fddfc76",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -118,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 380.5
   },
   "right": {
     "id": "1a0c954553791969",
@@ -134,11 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Play Design/12 Ace Hi-Lo Flood Right.md",
-=======
-                "file": "Hi-Lo Concepts.md",
->>>>>>> Stashed changes
+                "file": "Coaching Information/Ben Johnson.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,11 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Play Design/12 Ace Hi-Lo Flood Right.md",
-=======
-                "file": "Hi-Lo Concepts.md",
->>>>>>> Stashed changes
+                "file": "Coaching Information/Ben Johnson.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,28 +145,27 @@
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Play Design/12 Ace Hi-Lo Flood Right.md"
-=======
-                "file": "Hi-Lo Concepts.md"
->>>>>>> Stashed changes
+                "file": "Coaching Information/Ben Johnson.md"
               }
             }
           },
           {
-            "id": "6d8b301535a1379e",
+            "id": "63620950dfa5072b",
             "type": "leaf",
             "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
@@ -217,53 +179,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b0ad9b6dc693b09d",
+  "active": "6613d52f657feb77",
   "lastOpenFiles": [
-<<<<<<< Updated upstream
-    "Play Design/12 Ace Motion Tunnel Screen.md",
-    "Play Design/12 Ace Lead Motion Y Flat.md",
-    "Pasted image 20231008040925.png",
-    "Play Design/12 Ace Lead Motion Glance RPO.md",
-    "Play Design/12 Ace Motion IZ.md",
-    "Play Design/12 Ace Motion IZ Read Option.md",
-    "Play Design/12 Ace Motion OZ.md",
-    "Play Design/12 Ace Lead Motion Zone Read.md",
-    "Play Design/12 Ace Lead Motion QB Option Counter.md",
-    "Play Design/12 Ace Hi-Lo Flood Right.md",
-    "Play Design/12 Ace IZ.md",
-    "Pasted image 20231008040443.png",
-    "Pasted image 20231008040332.png",
-    "Pasted image 20231008034907.png",
-    "Pasted image 20231008034502.png",
-    "Play Design/12 Ace.md",
-    "Pasted image 20231008034014.png",
-    "Pasted image 20231008033618.png",
-    "Pasted image 20231008033615.png",
-    "Offense/2022 Jacksonville Offense.md",
-    "2023-01-19.md",
-    "2023-07-18.md",
-=======
-    "Pasted image 20230906142518.png",
-    "Pasted image 20230906140927.png",
-    "Pasted image 20230906135656.png",
->>>>>>> Stashed changes
-    "My Defensive Philosophy.md",
-    "My Offensive Philosophy.md",
-    "README.md",
-    "Untitled.canvas",
-    "Play Design",
-    "Pasted image 20230123121814.png",
-    "Pasted image 20230123121814 1.png",
     "Coaching Information/Bob Stoops.md",
-    "Coaching Information/Brent Venables.md",
-    "Coaching Information/Hal Mumme.md",
-    "Coaching Information/Lane Kiffin.md",
-    "Coaching Information/Mike Leach.md",
-    "Coaching Information/Mike Tomlin.md",
-    "Coaching Information/Monte Kiffin.md",
-    "Pasted image 20230123121819.png.md",
-    "Coaching Information/NFL Teams/AFC",
-    "Coaching Information/NFL Teams/NFC",
-    "Untitled 1.canvas"
+    "Coaching Information/Brad Childress.md",
+    "Coaching Information/Ben Johnson.md",
+    "Offense/2022 Jacksonville Offense.md",
+    "Coaching Information/Universities/Clemson University.md",
+    "Coaching Information/Kevin O'Connell.md",
+    "Play Design/Hi-Lo Concepts.md",
+    "Coaching Information/Press Taylor.md",
+    "Untitled.canvas",
+    "2023-01-19.md",
+    "2023-06-30.md",
+    "2023-07-18.md",
+    "README.md",
+    "Coaching Information/Universities/Ohio State University.md",
+    "Coaching Information/Universities/University of  Minnesota.md",
+    "Coaching Information/Universities/University of Wisconsin.md",
+    "Coaching Information/Doug Peterson.md",
+    "Coaching Information/Universities/Michigan State University.md",
+    "Coaching Information/Universities/Arizona State University.md",
+    "Coaching Information/Universities/Washington State University.md",
+    "Coaching Information/Universities/University of Southern California.md",
+    "Coaching Information/Universities/University of Utah.md",
+    "Coaching Information/Universities/University of Illinois.md",
+    "Coaching Information/Universities/University of Nebraska.md",
+    "Coaching Information/Universities/North Carolina State University.md",
+    "Coaching Information/Universities/University of Kentucky.md",
+    "Coaching Information/Universities/University of Florida.md",
+    "Images/Pasted image 20230123121814.png",
+    "Photos"
   ]
 }

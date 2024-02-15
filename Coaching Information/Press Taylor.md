@@ -1,0 +1,1 @@
+*Sherwood Press Taylor* (born January 13, 1988) is an American football coach who is the offensive coordinator for the [[Jacksonville Jaguars]]. He previously served an assistant coach for the [[Indianapolis Colts]] and [Philadelphia Eagles].

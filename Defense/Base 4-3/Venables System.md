@@ -4,7 +4,7 @@ The Venables System is a Defensive Scheme created by [[Brent Venables]].
 There are a lot of terminology that is associated with the system:
 
 [[Utah]]
-[[Buffalo]]
+[[Buffaloo]]
 [[Clamp]]
 [[Lock]]
 [[Saint]]

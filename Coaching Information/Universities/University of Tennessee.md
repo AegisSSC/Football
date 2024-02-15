@@ -1,2 +1,2 @@
 [[NCAAF]]
-[[Southeastern Conference]]
+#Southeastern_Conference 
